@@ -1,7 +1,7 @@
-# Lista de Exercícios 01 - POO
+# Lista de Exercícios 02 - POO
 **Disciplina:** Linguagem de Programação  
 **Curso:** ADS 2 - Turma 1  
-**Aluno:** Rafael Augusto Balko de Souza
+**Aluno:** Vitor Spornraft
 
 ---
 
@@ -61,12 +61,12 @@ lista_002/
 
 1. Clone o repositório:
 ```
-   git clone https://github.com/rafabalko/lista001.git
-   cd lista001
+   git clone https://github.com/VitorSpornraft/lista002.git
+   cd lista002
 ```
 2. Vá até a pasta do exercício:
 ```
-cd Exercicio_1-1/src
+cd Exercicio-01/src
 ```
 3. Compile e execute:
 ```
